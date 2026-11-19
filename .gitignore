@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local preview and test artifacts
+.screenshots/
+.trae-html-share-packages/
+.edge-*/
+shot-*.png
+_site/
+
+# Dependencies / env / logs
+node_modules/
+.env
+*.log
